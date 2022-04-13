@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vrozax</h1>
+<h1 align="center">Hi 👋, I'm Vrozax</h1> 
+![](https://komarev.com/ghpvc/?username=Vrozax&color=green)
 - 🌱 I’m currently learning **Python,Django, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vrozax](https://github.com/Vrozax)
